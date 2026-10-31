@@ -14,7 +14,7 @@ Un softphone SIP nativo para macOS: claro, rápido y privado.
 
 ---
 
-Haz y recibe llamadas en tu Mac con cualquier operador SIP o centralita (Asterisk, FreePBX, 3CX, OVH y otros). Aplicación universal (Intel y Apple Silicon). La interfaz está en español, inglés y francés, según el idioma de tu Mac.
+Haz y recibe llamadas en tu Mac con cualquier operador SIP o centralita (Asterisk, FreePBX, 3CX, OVH y otros). Aplicación universal (Intel y Apple Silicon). La interfaz está en español, inglés y francés, según el idioma de tu Mac o el que elijas en los Ajustes de Lina.
 
 - **Llamadas que funcionan:** espera, transferencia ciega y asistida, llamada en espera con cambio de línea en un clic, teclado DTMF, indicador de buzón de voz, motivo claro cuando una llamada falla (ocupado, número desconocido).
 - **Llamar con un clic:** los números de tu navegador, CRM o Contactos (enlaces `tel:`, `callto:`, `sip:`) llaman con Lina.
