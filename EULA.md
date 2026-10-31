@@ -2,7 +2,7 @@
 
 **Éditeur :** KB Digital Services LLC, société immatriculée dans l'État du Wyoming (États-Unis) sous le numéro 2026-002040292, siège : 30 N Gould St, Ste R, Sheridan, WY 82801, contact@kevin-boileux.com (« l'Éditeur »).
 **Logiciel :** Lina, softphone SIP pour macOS (« le Logiciel »).
-**Version du contrat :** 1.0 du 31 octobre 2026.
+**Version du contrat :** 1.1 du 31 octobre 2026 (activation en ligne de Lina Pro, version 1.2 du Logiciel).
 
 En installant ou en utilisant le Logiciel, vous (« l'Utilisateur ») acceptez le présent contrat. Si vous ne l'acceptez pas, n'installez pas et n'utilisez pas le Logiciel.
 
@@ -16,7 +16,7 @@ Le Logiciel est **concédé sous licence, non vendu**.
 
 ## 2. Étendue d'une licence Lina Pro
 
-- **Une licence par utilisateur.** Une licence Lina Pro est attribuée à une personne physique, qui peut l'utiliser sur les Mac dont elle se sert elle-même, dans la limite de trois.
+- **Une licence par utilisateur.** Une licence Lina Pro est attribuée à une personne physique, qui peut l'utiliser sur les Mac dont elle se sert elle-même, dans la limite de trois. La clé s'active en ligne sur chaque Mac ; la retirer d'un Mac (Préférences, À propos, « Retirer la licence de cet appareil ») libère sa place.
 - **Achat pour une équipe.** Une entreprise achète autant de licences que de personnes qui utilisent Lina Pro. La clé indique le nombre d'utilisateurs couverts ; elle s'installe sur le Mac de chacun d'eux.
 - **Réaffectation.** Lorsqu'une personne quitte l'entreprise ou cesse d'utiliser Lina, sa licence peut être attribuée à une autre personne de la même entreprise, après désactivation sur ses Mac (Préférences, À propos, « Retirer la licence de cet appareil »).
 - **Durée.** La licence est perpétuelle pour la version majeure achetée (1.x) et ses mises à jour. Une future version majeure pourra faire l'objet d'une nouvelle licence ; la version achetée reste alors utilisable.
@@ -25,7 +25,7 @@ Le Logiciel est **concédé sous licence, non vendu**.
 
 Le paiement est traité par Stripe, qui agit comme vendeur officiel (« merchant of record ») : Stripe encaisse le prix, applique et reverse la TVA ou la taxe de vente due dans le pays de l'acheteur, et lui adresse le reçu. La clé de licence est envoyée par e-mail dès le paiement confirmé.
 
-L'Éditeur rembourse intégralement une licence sur simple demande adressée à contact@kevin-boileux.com dans les 14 jours suivant l'achat ; l'Utilisateur retire alors la clé de ses Mac et ne l'utilise plus.
+L'Éditeur rembourse intégralement une licence sur simple demande adressée à contact@kevin-boileux.com dans les 14 jours suivant l'achat ; la clé est alors désactivée.
 
 ## 4. Restrictions
 
@@ -37,7 +37,7 @@ Le Logiciel intègre des composants tiers sous licences permissives : baresip et
 
 ## 6. Données personnelles
 
-Le Logiciel ne collecte aucune donnée personnelle et n'envoie aucune télémétrie. Les identifiants SIP sont conservés dans le trousseau macOS ; les comptes, contacts, historique et préférences restent sur le Mac. Les appels passent directement entre l'Utilisateur et son opérateur VoIP. Le Logiciel consulte seulement, une fois par jour, la liste publique des mises à jour, sans transmettre d'identifiant. La politique de confidentialité complète est publiée sur kevin-boileux.com/fr/lina/confidentialite.
+Le Logiciel n'envoie aucune télémétrie. Seuls l'essai et l'activation de Lina Pro contactent le serveur de l'Éditeur, avec une empreinte anonyme du Mac (et la clé, pour une activation) ; l'activation est renouvelée en arrière-plan, et Lina Pro se met en pause après 30 jours sans connexion jusqu'au renouvellement. Les identifiants SIP sont conservés dans le trousseau macOS ; les comptes, contacts, historique et préférences restent sur le Mac. Les appels passent directement entre l'Utilisateur et son opérateur VoIP. Le Logiciel consulte seulement, une fois par jour, la liste publique des mises à jour, sans transmettre d'identifiant. La politique de confidentialité complète est publiée sur kevin-boileux.com/fr/lina/confidentialite.
 
 ## 7. Garantie
 

@@ -3,40 +3,26 @@
     <channel>
         <title>Lina</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Sat, 31 Oct 2026 09:00:01 +0100</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Sat, 31 Oct 2026 09:20:30 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Lina 1.1</h2>
+            <description><![CDATA[<h2>Lina 1.2</h2>
 <ul>
-<li>Lina now speaks English, French and Spanish, and follows your Mac's language.</li>
-<li>The CSV history export follows your language too, with the separator your spreadsheet expects.</li>
-<li>Clearer error messages when a call or a transfer fails.</li>
-<li>Links to the website and the license agreement in your language (Settings, About).</li>
+<li>Online activation of Lina Pro: the key is activated on each of your Macs (three per user), and "Remove the license from this Mac" frees its place.</li>
+<li>The 14-day trial is recorded once per Mac.</li>
+<li>Only an anonymous fingerprint of the Mac is sent, never your calls, contacts or history.</li>
 </ul>
 ]]></description>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.1.0.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.1.0.fr.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.1.0.es.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.1.0/Lina-1.1.0.dmg" length="9714304" type="application/octet-stream" sparkle:edSignature="WApj0fgNc3PXdIjpd9wr9FJlFi3pO6MVWH7f8fE4TvTdB5IIi3jEykrx90ek3MukGlv5yW8joXzSnz0Ct/D5Bw=="/>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.2.0.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.2.0.fr.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.2.0.es.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.2.0/Lina-1.2.0.dmg" length="9796357" type="application/octet-stream" sparkle:edSignature="a0aK4IzWqOqk2pyVDTSCYBiA5jw9ziOVPgZkNEuSSxy4vg7eaRqf8jBFIysPa3tHGzzTsnipSb76aXLBuxwyAQ=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.1.0/Lina4-3.delta" sparkle:deltaFrom="3" length="968606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H9JvYahoM41gKwwZHFE7z2fILv19mAHreZu/PR2yvl5Alj2c0UnX3lKD3CCFDYPs/tX7SauWimwDjDKlXNtzAQ=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.2.0/Lina5-4.delta" sparkle:deltaFrom="4" length="930478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OZshh4dMtilhJzW6MUOYRc9wqLIoZ+AS0JdNXp8IZ9/0mKNsKOBO6jWmliOVy/ejQ3OeEOtGEo0vNI9k7zPRDg=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.2.0/Lina5-3.delta" sparkle:deltaFrom="3" length="1080618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wo1ZHGynmY3ndRzKxMQcB4aOIfeuwrJ7sZJ0e/gvQATvHltNjbpBLC47U78qGGCgTSHGGDhjqoO/r4oCMVgqBQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sat, 31 Oct 2026 08:02:58 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Lina 1.0</h2>
-<ul>
-<li>Softphone SIP natif pour macOS : appels, attente, transfert aveugle et supervisé, double appel, touches DTMF, indicateur de messagerie vocale.</li>
-<li>Lina Pro : enregistrement des appels, noms des Contacts du Mac, comptes SIP multiples, historique illimité avec export CSV, statistiques d'appels.</li>
-<li>Appel en un clic depuis les liens tel:, callto: et sip:, mode Ne pas déranger, raccourci global pour répondre ou raccrocher.</li>
-</ul>]]></description>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.0.0/Lina-1.0.0.dmg" length="9641003" type="application/octet-stream" sparkle:edSignature="i6K8tHgjNMVbT7+jBLCMZrBRQX+mwRpyBHtMP5KKOuVah+fEqukFf+MZYZpKBHwIn3jo6C0HxDLAtMwDrRXYDw=="/>
         </item>
     </channel>
 </rss>
