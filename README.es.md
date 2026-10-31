@@ -14,7 +14,7 @@ Un softphone SIP nativo para macOS: claro, rápido y privado.
 
 ---
 
-Haz y recibe llamadas en tu Mac con cualquier operador SIP o centralita (Asterisk, FreePBX, 3CX, OVH y otros). Aplicación universal (Intel y Apple Silicon). La interfaz está en francés.
+Haz y recibe llamadas en tu Mac con cualquier operador SIP o centralita (Asterisk, FreePBX, 3CX, OVH y otros). Aplicación universal (Intel y Apple Silicon). La interfaz está en español, inglés y francés, según el idioma de tu Mac.
 
 - **Llamadas que funcionan:** espera, transferencia ciega y asistida, llamada en espera con cambio de línea en un clic, teclado DTMF, indicador de buzón de voz, motivo claro cuando una llamada falla (ocupado, número desconocido).
 - **Llamar con un clic:** los números de tu navegador, CRM o Contactos (enlaces `tel:`, `callto:`, `sip:`) llaman con Lina.
@@ -46,7 +46,7 @@ grabación de llamadas, nombres de los Contactos del Mac, varias cuentas SIP, tr
 
 - Web: [kevin-boileux.com/fr/lina](https://kevin-boileux.com/fr/lina)
 - Política de privacidad: [kevin-boileux.com/fr/lina/confidentialite](https://kevin-boileux.com/fr/lina/confidentialite)
-- Contrato de licencia: [EULA.md](EULA.md) (en francés)
+- Contrato de licencia: [EULA.md](EULA.md) (en francés), [versión en español](https://kevin-boileux.com/es/lina/licence)
 - Soporte: contact@kevin-boileux.com
 
 Este repositorio solo distribuye la aplicación. Lina es software propietario de KB Digital Services LLC.
