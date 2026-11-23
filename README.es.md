@@ -4,7 +4,7 @@
 
 # Lina
 
-[🇬🇧 English](README.md) · [🇫🇷 Français](README.fr.md) · **🇪🇸 Español**
+[🇬🇧 English](README.md) · [🇫🇷 Français](README.fr.md) · **🇪🇸 Español** · [🇩🇪 Deutsch](README.de.md)
 
 Un softphone SIP nativo para macOS: claro, rápido y privado.
 
@@ -14,7 +14,7 @@ Un softphone SIP nativo para macOS: claro, rápido y privado.
 
 ---
 
-Haz y recibe llamadas en tu Mac con cualquier operador SIP o centralita (Asterisk, FreePBX, 3CX, OVH y otros). Aplicación universal (Intel y Apple Silicon). La interfaz está en español, inglés y francés, según el idioma de tu Mac o el que elijas en los Ajustes de Lina.
+Haz y recibe llamadas en tu Mac con cualquier operador SIP o centralita (Asterisk, FreePBX, 3CX, OVH y otros). Aplicación universal (Intel y Apple Silicon). La interfaz está en español, inglés, francés y alemán, según el idioma de tu Mac o el que elijas en los Ajustes de Lina.
 
 - **Llamadas que funcionan:** espera, transferencia ciega y asistida, llamada en espera con cambio de línea en un clic, teclado DTMF, indicador de buzón de voz, motivo claro cuando una llamada falla (ocupado, número desconocido).
 - **Llamar con un clic:** los números de tu navegador, CRM o Contactos (enlaces `tel:`, `callto:`, `sip:`) llaman con Lina.
@@ -29,7 +29,7 @@ La versión gratuita no tiene límite de tiempo y gestiona una cuenta SIP. Cada 
 **Lina Pro, 29 € por usuario, pago único** (actualizaciones de la versión 1 incluidas):
 grabación de llamadas, nombres de los Contactos del Mac, varias cuentas SIP, transferencia asistida, historial ilimitado con exportación CSV, estadísticas de llamadas.
 
-[Comprar Lina Pro](https://kevin-boileux.com/fr/lina#acheter)
+[Comprar Lina Pro](https://kevin-boileux.com/es/lina#acheter)
 
 ## Requisitos
 
@@ -40,12 +40,12 @@ grabación de llamadas, nombres de los Contactos del Mac, varias cuentas SIP, tr
 
 1. Descarga **`Lina.dmg`** desde la [última versión](https://github.com/Titi257/lina/releases/latest).
 2. Ábrelo y arrastra **Lina** a **Aplicaciones**.
-3. Abre Lina y añade tu cuenta SIP en **Comptes**.
+3. Abre Lina y añade tu cuenta SIP en **Cuentas**.
 
 ## Enlaces
 
-- Web: [kevin-boileux.com/fr/lina](https://kevin-boileux.com/fr/lina)
-- Política de privacidad: [kevin-boileux.com/fr/lina/confidentialite](https://kevin-boileux.com/fr/lina/confidentialite)
+- Web: [kevin-boileux.com/es/lina](https://kevin-boileux.com/es/lina)
+- Política de privacidad: [kevin-boileux.com/es/lina/confidentialite](https://kevin-boileux.com/es/lina/confidentialite)
 - Contrato de licencia: [EULA.md](EULA.md) (en francés), [versión en español](https://kevin-boileux.com/es/lina/licence)
 - Soporte: contact@kevin-boileux.com
 
