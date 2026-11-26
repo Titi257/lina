@@ -8,6 +8,7 @@
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
             <description><![CDATA[<h2>Lina 1.5.3</h2>
 <ul>
 <li>Contacts: the people from the Contacts app are now listed under “All contacts”, as in Apple's app (they include iCloud and your other accounts, not only what is stored on the Mac). The contacts kept in Lina appear under “Lina contacts” when both are shown, and the setting is now “Show names from the Contacts app”.</li>
@@ -31,6 +32,7 @@
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
             <description><![CDATA[<h2>Lina 1.5.2</h2>
 <ul>
 <li>Ringtone: import one of your own audio files as the ringtone (Settings, Sound), and two new built-in sounds, Harp and Vintage telephone. As before, each can be previewed and has its own volume, separate from the call volume.</li>
@@ -55,6 +57,7 @@
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
             <description><![CDATA[<h2>Lina 1.5.1</h2>
 <ul>
 <li>Sidebar: your lines with their state, one click to choose the line the next call leaves from, and your favourite contacts one click away from a call.</li>
