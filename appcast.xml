@@ -9,16 +9,30 @@
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Lina 1.5.5</h2>
+            <description><![CDATA[<h3>What's new in Lina 1.5.5</h3>
 <ul>
-<li>Call links (Settings, General): the setting now shows which app opens phone-number links today, and explains how to choose Lina when macOS does not let Lina do it by itself. Until now the “Use Lina” button could do nothing without saying why.</li>
-<li>Contacts: the name the Contacts app sorts by is shown in bold, as in Apple's list.</li>
-<li>Language: “System language (English)” replaces “Mac's language”, with the detected language.</li>
-</ul>
-]]></description>
-            <sparkle:releaseNotesLink xml:lang="de">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.5.de.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.5.es.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.5.fr.html</sparkle:releaseNotesLink>
+<li><b>Call links</b>: Settings now shows which app opens phone-number links on your Mac, and how to make Lina your choice when macOS does not let Lina do it for you.</li>
+<li><b>Contacts in your order</b>: the list follows the sort order of the Contacts app, with the sorting name in bold, as in Apple's list.</li>
+<li><b>Clearer language setting</b>: “System language (English)” shows which language Lina follows.</li>
+</ul>]]></description>
+            <description xml:lang="de"><![CDATA[<h3>Neu in Lina 1.5.5</h3>
+<ul>
+<li><b>Anruf-Links</b>: Die Einstellungen zeigen, welche App Telefonnummern-Links auf Ihrem Mac öffnet und wie Sie Lina auswählen, wenn macOS dies Lina nicht selbst erlaubt.</li>
+<li><b>Kontakte in Ihrer Reihenfolge</b>: Die Liste folgt der Sortierung der Kontakte-App, der Sortiername erscheint fett, wie in der Liste von Apple.</li>
+<li><b>Klarere Spracheinstellung</b>: „Systemsprache (Deutsch)“ zeigt, welcher Sprache Lina folgt.</li>
+</ul>]]></description>
+            <description xml:lang="es"><![CDATA[<h3>Novedades de Lina 1.5.5</h3>
+<ul>
+<li><b>Enlaces de llamada</b>: Ajustes indica qué app abre los enlaces de números en tu Mac y cómo elegir Lina cuando macOS no permite que Lina lo haga por ti.</li>
+<li><b>Contactos en tu orden</b>: la lista sigue el orden de la app Contactos, con el nombre de ordenación en negrita, como en la lista de Apple.</li>
+<li><b>Ajuste de idioma más claro</b>: «Idioma del sistema (español)» indica qué idioma sigue Lina.</li>
+</ul>]]></description>
+            <description xml:lang="fr"><![CDATA[<h3>Nouveautés de Lina 1.5.5</h3>
+<ul>
+<li><b>Liens d'appel</b> : les Préférences indiquent quelle app ouvre les liens de numéros sur votre Mac, et comment choisir Lina quand macOS ne laisse pas Lina le faire pour vous.</li>
+<li><b>Contacts dans votre ordre</b> : la liste suit l'ordre de tri de l'app Contacts, avec le nom de tri en gras, comme dans la liste d'Apple.</li>
+<li><b>Réglage de langue plus clair</b> : « Langue du système (français) » indique la langue que Lina suit.</li>
+</ul>]]></description>
             <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.5/Lina-1.5.5.dmg" length="10505577" type="application/octet-stream" sparkle:edSignature="AZ74plNfmUzPwpDzwgTohRvGZP2I8vpdiPHtQWWpARrr19tD/NYLpGZAN3890UKAfqkbTOAIknFyoAzyL4wlDQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.5/Lina16-15.delta" sparkle:deltaFrom="15" length="792238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vYyLdUgenDna1Zb+27fARPFDJoo/PXItCMlili4T+3lqYL+SZTyOm9dcgET1ESE/lXHssRytJCHQ/31F803YAA=="/>
@@ -39,11 +53,22 @@
 <ul>
 <li>Call screen: while a call is being recorded, the record button is white with a red square, so it can no longer be mistaken for the red hang-up button.</li>
 <li>Compact window: the Statistics screen is laid out for a narrow window (tiles two by two, nothing cut), and the Accounts screen no longer breaks the address or the status in two.</li>
-</ul>
-]]></description>
-            <sparkle:releaseNotesLink xml:lang="de">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.4.de.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.4.es.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.4.fr.html</sparkle:releaseNotesLink>
+</ul>]]></description>
+            <description xml:lang="de"><![CDATA[<h2>Lina 1.5.4</h2>
+<ul>
+<li>Anrufbildschirm: Während einer Aufnahme ist die Aufnahmetaste weiß mit einem roten Quadrat, damit sie nicht mehr mit der roten Auflegen-Taste verwechselt wird.</li>
+<li>Kompaktes Fenster: Der Bildschirm „Statistiken“ ist für ein schmales Fenster angeordnet (Kacheln paarweise, nichts abgeschnitten), und der Bildschirm „Accounts“ trennt Adresse und Status nicht mehr in zwei Zeilen.</li>
+</ul>]]></description>
+            <description xml:lang="es"><![CDATA[<h2>Lina 1.5.4</h2>
+<ul>
+<li>Pantalla de llamada: durante una grabación, el botón de grabar es blanco con un cuadrado rojo, para no confundirlo con el botón rojo de colgar.</li>
+<li>Ventana compacta: la pantalla Estadísticas se adapta a una ventana estrecha (mosaicos de dos en dos, nada cortado), y la pantalla Cuentas ya no parte en dos la dirección ni el estado.</li>
+</ul>]]></description>
+            <description xml:lang="fr"><![CDATA[<h2>Lina 1.5.4</h2>
+<ul>
+<li>Écran d'appel : pendant un enregistrement, le bouton d'enregistrement est blanc avec un carré rouge, pour ne plus le confondre avec le bouton rouge qui raccroche.</li>
+<li>Fenêtre compacte : l'écran Statistiques est mis en page pour une fenêtre étroite (tuiles deux par deux, plus rien de coupé), et l'écran Comptes ne coupe plus l'adresse ni l'état en deux.</li>
+</ul>]]></description>
             <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.4/Lina-1.5.4.dmg" length="10482232" type="application/octet-stream" sparkle:edSignature="gM9JxnmD2j7Q4tFcybstcDYhiu1EdL0zrE9R8aqT8rxseWejTaVVYMgn6yO4FDu/Agotr64sfJd/mZr2Ys4+Cw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.4/Lina15-14.delta" sparkle:deltaFrom="14" length="731574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z7lxMMMRW/LMd2DuiNFA5mNqsaZf+VnlPqqcj9bt3zeK3YqDJJAJbrgy0l7CVvgr81uHJiRp7puHdTR5b5UdCA=="/>
@@ -63,11 +88,19 @@
             <description><![CDATA[<h2>Lina 1.5.3</h2>
 <ul>
 <li>Contacts: the people from the Contacts app are now listed under “All contacts”, as in Apple's app (they include iCloud and your other accounts, not only what is stored on the Mac). The contacts kept in Lina appear under “Lina contacts” when both are shown, and the setting is now “Show names from the Contacts app”.</li>
-</ul>
-]]></description>
-            <sparkle:releaseNotesLink xml:lang="de">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.3.de.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.3.es.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/notes/Lina-1.5.3.fr.html</sparkle:releaseNotesLink>
+</ul>]]></description>
+            <description xml:lang="de"><![CDATA[<h2>Lina 1.5.3</h2>
+<ul>
+<li>Kontakte: Die Personen aus der Kontakte-App stehen jetzt unter „Alle Kontakte“, wie in der App von Apple (einschließlich iCloud und Ihrer anderen Accounts, nicht nur der auf dem Mac gespeicherten). Die in Lina angelegten Kontakte erscheinen unter „Lina-Kontakte“, wenn beide angezeigt werden, und die Einstellung heißt nun „Namen aus der Kontakte-App anzeigen“.</li>
+</ul>]]></description>
+            <description xml:lang="es"><![CDATA[<h2>Lina 1.5.3</h2>
+<ul>
+<li>Contactos: las personas de la app Contactos aparecen ahora bajo «Todos los contactos», como en la app de Apple (incluidos iCloud y tus otras cuentas, no solo lo guardado en el Mac). Los contactos guardados en Lina aparecen bajo «Contactos de Lina» cuando se muestran ambos, y el ajuste pasa a ser «Mostrar los nombres de la app Contactos».</li>
+</ul>]]></description>
+            <description xml:lang="fr"><![CDATA[<h2>Lina 1.5.3</h2>
+<ul>
+<li>Contacts : les personnes de l'app Contacts sont désormais listées sous « Tous les contacts », comme dans l'app d'Apple (iCloud et vos autres comptes compris, pas seulement ce qui est stocké sur le Mac). Les contacts gardés dans Lina apparaissent sous « Contacts de Lina » quand les deux sont affichés, et le réglage devient « Afficher les noms de l'app Contacts ».</li>
+</ul>]]></description>
             <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.3/Lina-1.5.3.dmg" length="10463245" type="application/octet-stream" sparkle:edSignature="92e/0DjpB6upqeILq7MImTxCfEoOPA0xw7NGxshzFPqXrrazTBfbVJoRq1HlIEkIfGrSleKXCwUtatmH6ytPAw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.3/Lina14-13.delta" sparkle:deltaFrom="13" length="402938" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XyT9XqioFDuuXzGg0msBCDbWupnn1b6SJnwXAk0NrMy9W9q12xb642QzBS2sHZnGUEFuZEgehZ+X2xXYqb2aCQ=="/>
