@@ -3,6 +3,30 @@
     <channel>
         <title>Lina</title>
         <item>
+            <title>1.5.1</title>
+            <pubDate>Thu, 26 Nov 2026 16:56:43 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Lina 1.5.1</h2>
+<ul>
+<li>Sidebar: your lines with their state, one click to choose the line the next call leaves from, and your favourite contacts one click away from a call.</li>
+<li>Compact window: the “Enter a number” prompt is no longer cut off on the right.</li>
+</ul>
+]]></description>
+            <sparkle:releaseNotesLink xml:lang="de">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.5.1.de.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.5.1.es.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.5.1.fr.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.1/Lina-1.5.1.dmg" length="10442543" type="application/octet-stream" sparkle:edSignature="jefjnO8uJO20V78YNJ1v88WrIVJsV/uTKbUiuMWiyWp27E0q+4wQ/BUhb9MaTcDNyzcaTJIbn2vEe7i5IyH3CA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.1/Lina12-11.delta" sparkle:deltaFrom="11" length="732982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iciPIEIKAhkJrUrU4FAScuQbPf2cfbhm2MRFDHy55UTxOf/WnE5eaGWzmkv4Ce87Ap+CwxA00hjO6nVzBpZdDQ=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.1/Lina12-10.delta" sparkle:deltaFrom="10" length="1332646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CGfwGWqUWy9UrdZY+e9nfFHeBs1STFbFOfcH0KqsNboFlgfWbZFszmAYuRxNTkiamk57KbscQcd3qtpsuUadAg=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.1/Lina12-9.delta" sparkle:deltaFrom="9" length="1623010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G22iYjwHq08OQb4h3eiEOwp1XzAB5P8qrgN+HaP1sJ4Fw3hy3IfXRJI7XZsqUEMvC1AA/nffRCBLgLaofY2MAw=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.1/Lina12-8.delta" sparkle:deltaFrom="8" length="1615970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xTUIsmEhi6EdjxkD02GnsM8EIddiolY+QdrZhnIgIaZ5xNmTEhwEYGtmgvHzxFhyVn02wjBllOPXoQoJUss8BQ=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.1/Lina12-7.delta" sparkle:deltaFrom="7" length="1622630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ts2bfhK2MRepkAhd3qc+0+nUlyakzIThedc9vbm9h9MbHcAEAzxAvv9ljxU0RMgep9BeBOyc+9ZZUO5o4pM6Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Thu, 26 Nov 2026 15:51:18 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -20,7 +44,7 @@
             <sparkle:releaseNotesLink xml:lang="de">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.5.0.de.html</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.5.0.es.html</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.5.0.fr.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.0/Lina-1.5.0.dmg" length="10384367" type="application/octet-stream" sparkle:edSignature="5GpKJJVVYc8nTHv//1o6n7KpwHZ1k7FJ8U7d6GxjYN4i6AtQBgogrCK4HPvdWPQl1PDcJUaHlZj73FBF0j4nDA=="/>
+            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.1/Lina-1.5.0.dmg" length="10384367" type="application/octet-stream" sparkle:edSignature="5GpKJJVVYc8nTHv//1o6n7KpwHZ1k7FJ8U7d6GxjYN4i6AtQBgogrCK4HPvdWPQl1PDcJUaHlZj73FBF0j4nDA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.0/Lina11-10.delta" sparkle:deltaFrom="10" length="1282634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nGKeD1brGbwjsfVkM243vA90141E5vp/r9SQXryjN/PgBdq9qwVAVLOiRHCiE9rjJIyprjkELz+7A8zz/fFwCQ=="/>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.0/Lina11-9.delta" sparkle:deltaFrom="9" length="1597906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gasb7Pz49CXK5YDkdkgeLnqdijwfB0XNptGSa+eI8wlz1mx75avulNdd22ENoLHXV9hEEMMAirCVZuzL6sMjAw=="/>
@@ -53,37 +77,13 @@
             <sparkle:releaseNotesLink xml:lang="de">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.4.0.de.html</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.4.0.es.html</sparkle:releaseNotesLink>
             <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.4.0.fr.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.0/Lina-1.4.0.dmg" length="10138290" type="application/octet-stream" sparkle:edSignature="9sx1eDsj94fJjRGzDAbq2M7ZVpvqLdN11Qwox+rtWeP5tpReheM9hisik38mVRxl5HvjAfAKx0ukLByX3jo4Cw=="/>
+            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.1/Lina-1.4.0.dmg" length="10138290" type="application/octet-stream" sparkle:edSignature="9sx1eDsj94fJjRGzDAbq2M7ZVpvqLdN11Qwox+rtWeP5tpReheM9hisik38mVRxl5HvjAfAKx0ukLByX3jo4Cw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.4.0/Lina10-9.delta" sparkle:deltaFrom="9" length="1280450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kLewT5UeFp8nrLELK3PCS59ScU28QVHYp1k16zrByHbxHEFJ94teb4ICzPwbkrSy3we2mrUvOIpe02mYRGInAw=="/>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.4.0/Lina10-8.delta" sparkle:deltaFrom="8" length="1298042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1xYonEpOx1+O3yuC3QJRZBBZCxKdovtYlYryas7Cos3hLMpIet3LWOI0CFkIXuFtIuJCCFqabgMwtcEMXeIHBA=="/>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.4.0/Lina10-7.delta" sparkle:deltaFrom="7" length="1295526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aEns9Xj0YnZn46HzGc5ai7OMoWtoXD3lchVrmN9dap8rSgaWJjVyCqFD55CeHA4bYXUf4jLLKUennXMMvfiODA=="/>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.4.0/Lina10-6.delta" sparkle:deltaFrom="6" length="1318858" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ozEVKo9IqtwcvhJs1iDXh3OIFo3gE2OddG9BCso51OmRUo0Poxg4ZXrnX6OZ7BSbAWlAwbQMwl0UWUY1gJQXBQ=="/>
                 <enclosure url="https://github.com/Titi257/lina/releases/download/v1.4.0/Lina10-5.delta" sparkle:deltaFrom="5" length="1342954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VB6InTNKCMu8rZGuJtWeyyjxOORDvJYYCN9YPK4YkPl2OxfguyTu6mKsz6p+Pk+NbWVyhxuEr/8w+FPaJGUfAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.2</title>
-            <pubDate>Mon, 23 Nov 2026 10:38:49 +0100</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Lina 1.3.2</h2>
-<ul>
-<li>Accounts on a FRITZ!Box (fritz.box), behind a company VPN or on a local name (.local) now register: Lina resolves server names exactly like the rest of macOS.</li>
-<li>A server address that does not exist is now reported as « Server not found », in your language.</li>
-</ul>
-]]></description>
-            <sparkle:releaseNotesLink xml:lang="de">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.3.2.de.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="es">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.3.2.es.html</sparkle:releaseNotesLink>
-            <sparkle:releaseNotesLink xml:lang="fr">https://raw.githubusercontent.com/Titi257/lina/main/Lina-1.3.2.fr.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.0/Lina-1.3.2.dmg" length="9849499" type="application/octet-stream" sparkle:edSignature="3yPXyHyEXvOIe7wh5YPldRa3yL4tzYSi3gyAjp2CKC5TqPW7dOVpV1XGEUC6D0P5REukTl7Gumj0PmuRMBjHAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.3.2/Lina9-8.delta" sparkle:deltaFrom="8" length="381742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jIKoTblRNA1fCJLf4OGGidsSGDuPldZ3CWPADbGwZqKDgf8RkPV/7tw43/b5BTnhJvYHZsIe9E/zp/pME4I9BA=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.3.2/Lina9-7.delta" sparkle:deltaFrom="7" length="657610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7YmAYgn98SMrJhD5CIYxZaSHqaN9JZiaQi7UICybBxrUXyWCqp7kIRjEPppT5xgkQAFWiBJjdQ2q6BlOIdW+AQ=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.3.2/Lina9-6.delta" sparkle:deltaFrom="6" length="765726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xy17u1vKGMQ31hpiJks4XyAguloP9yMGTu40wTa1KTSbNkwBFfueXKTjru20Cw8rNmvJRypUN6G3ytGvstHLDA=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.3.2/Lina9-5.delta" sparkle:deltaFrom="5" length="844018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KHiYHiXM6uE9clzkxFO6+L7f4YthvDFlKMMOAIeeCFT+GvhFeRhl2TKJO8SY5KcgKB++b6svVIADa/fcfmraDw=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.3.2/Lina9-4.delta" sparkle:deltaFrom="4" length="1011942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i0QVMeZxtfAxPOlIneX2zHkN1CVSIDb494WlsMNLMIVbkFUbZbYQn8u4Pk71OuQ6ifcIk7L4USFRw56yPXucAQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
