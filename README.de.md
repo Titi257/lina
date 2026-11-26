@@ -16,7 +16,7 @@ Ein natives SIP-Softphone für macOS: klar, schnell, privat.
 
 Telefonieren Sie auf Ihrem Mac mit jedem SIP-Anbieter oder jeder Telefonanlage (Asterisk, FreePBX, 3CX, OVH und andere). Universelle App (Intel und Apple Silicon). Die Oberfläche ist auf Deutsch, Englisch, Französisch und Spanisch verfügbar, je nach Sprache Ihres Mac oder nach Ihrer Wahl in den Einstellungen von Lina.
 
-- **Anrufe, die einfach funktionieren:** Halten, unbetreute und betreute Weiterleitung, Anklopfen mit Wechsel per Klick, DTMF-Tastenfeld, Mailbox-Anzeige, klare Gründe bei fehlgeschlagenen Anrufen (besetzt, unbekannte Nummer).
+- **Anrufe, die einfach funktionieren:** Halten, unbetreute und betreute Weiterleitung, Dreierkonferenz, Anklopfen mit Wechsel per Klick, DTMF-Tastenfeld, Mailbox-Anzeige, klare Gründe bei fehlgeschlagenen Anrufen (besetzt, unbekannte Nummer).
 - **Klicken zum Anrufen:** Nummern im Browser, im CRM oder in Kontakte (Links `tel:`, `callto:`, `sip:`) rufen über Lina an.
 - **Überprüfbare Sicherheit:** Signalisierung über TLS und Sprache über SRTP, mit einer ehrlichen Anzeige, die „verschlüsselt“ nur dann zeigt, wenn der Ton es wirklich ist.
 - **Für den Mac gemacht:** Steuerung über die Menüleiste, Mitteilungen mit Annehmen / Ablehnen, „Nicht stören“, ein globaler Kurzbefehl (⌃⌥Leertaste) zum Annehmen oder Auflegen, automatische Updates.
@@ -27,7 +27,7 @@ Telefonieren Sie auf Ihrem Mac mit jedem SIP-Anbieter oder jeder Telefonanlage (
 Die kostenlose Version ist zeitlich unbegrenzt und unterstützt einen SIP-Account. Jede neue Installation enthält **14 Tage Lina Pro**.
 
 **Lina Pro, 29 € pro Benutzer, Einmalkauf** (Updates der Version 1 inklusive):
-Anrufaufnahme, Namen aus den Kontakten des Mac, mehrere SIP-Accounts, betreute Weiterleitung, unbegrenzter Verlauf mit CSV-Export, Anrufstatistiken.
+Anrufaufnahme, Namen, Fotos und Listen aus den Kontakten des Mac, mehrere SIP-Accounts, betreute Weiterleitung, Dreierkonferenz, unbegrenzter Verlauf mit CSV-Export, Anrufstatistiken.
 
 [Lina Pro kaufen](https://kevin-boileux.com/de/lina#acheter)
 

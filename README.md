@@ -16,7 +16,7 @@ A native SIP softphone for macOS: clear, fast, private.
 
 Make and receive calls on your Mac with any SIP provider or PBX (Asterisk, FreePBX, 3CX, OVH, and others). Universal app (Intel and Apple Silicon). The interface is in English, French, Spanish and German, following your Mac's language or the one you pick in Lina's Settings.
 
-- **Calls that just work:** hold, blind and attended transfer, call waiting with one click to switch lines, DTMF keypad, voicemail indicator, clear reasons when a call fails (busy, unknown number).
+- **Calls that just work:** hold, blind and attended transfer, three-way conference, call waiting with one click to switch lines, DTMF keypad, voicemail indicator, clear reasons when a call fails (busy, unknown number).
 - **Click to call:** numbers in your browser, CRM or Contacts (`tel:`, `callto:`, `sip:` links) call through Lina.
 - **Security you can check:** TLS signaling and SRTP audio, with an honest badge that says « encrypted » only when the audio really is.
 - **Built for the Mac:** menu bar control, notifications with Answer / Decline, Do Not Disturb, a global shortcut (⌃⌥Space) to answer or hang up, automatic updates.
@@ -27,7 +27,7 @@ Make and receive calls on your Mac with any SIP provider or PBX (Asterisk, FreeP
 The free version has no time limit and runs one SIP account. Every new install includes **14 days of Lina Pro**.
 
 **Lina Pro, €29 per user, one-time purchase** (updates for version 1 included):
-call recording, caller names from your Mac Contacts, multiple SIP accounts, attended transfer, unlimited history with CSV export, call statistics.
+call recording, names, photos and lists from your Mac Contacts, multiple SIP accounts, attended transfer, three-way conference, unlimited history with CSV export, call statistics.
 
 [Buy Lina Pro](https://kevin-boileux.com/en/lina#acheter)
 
