@@ -3,6 +3,46 @@
     <channel>
         <title>Lina</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Fri, 27 Nov 2026 04:11:48 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>What's new in Lina 1.7.0</h3>
+<ul>
+<li><b>Light mode</b>: Lina now comes in light as well as dark. By default it follows your Mac's appearance; in Settings, General, Appearance, you can keep it light or dark at all times.</li>
+<li><b>Your own shortcut</b>: the global shortcut that answers or hangs up from any app is no longer fixed. In Settings, General, click the Shortcut field and type the combination you prefer; “Default” brings back ⌃⌥Space.</li>
+<li><b>A site of its own</b>: Lina has moved to lina-softphone.com. The links to buy Lina Pro and to the licence agreement now lead there.</li>
+</ul>]]></description>
+            <description xml:lang="de"><![CDATA[<h3>Neu in Lina 1.7.0</h3>
+<ul>
+<li><b>Heller Modus</b>: Lina gibt es jetzt hell und dunkel. Standardmäßig folgt Lina dem Erscheinungsbild Ihres Mac; unter Einstellungen > Allgemein > Erscheinungsbild können Sie dauerhaft Hell oder Dunkel wählen.</li>
+<li><b>Ihr eigener Kurzbefehl</b>: Der globale Kurzbefehl, der aus jeder App heraus annimmt oder auflegt, ist nicht mehr fest vorgegeben. Klicken Sie unter Einstellungen > Allgemein auf das Feld „Kurzbefehl“ und drücken Sie die gewünschte Kombination; „Standard“ stellt ⌃⌥Leertaste wieder her.</li>
+<li><b>Eine eigene Website</b>: Lina ist auf lina-softphone.com umgezogen. Die Links zum Kauf von Lina Pro und zum Lizenzvertrag führen nun dorthin.</li>
+</ul>]]></description>
+            <description xml:lang="es"><![CDATA[<h3>Novedades de Lina 1.7.0</h3>
+<ul>
+<li><b>Modo claro</b>: Lina ya existe en claro además de en oscuro. Por defecto sigue el aspecto de tu Mac; en Ajustes, General, Aspecto, puedes dejarla siempre clara u oscura.</li>
+<li><b>Tu propio atajo</b>: el atajo global que contesta o cuelga desde cualquier app ya no es fijo. En Ajustes, General, haz clic en el campo Atajo y pulsa la combinación que prefieras; «Por defecto» recupera ⌃⌥Espacio.</li>
+<li><b>Un sitio propio</b>: Lina se ha mudado a lina-softphone.com. Los enlaces para comprar Lina Pro y leer el contrato de licencia llevan ahora allí.</li>
+</ul>]]></description>
+            <description xml:lang="fr"><![CDATA[<h3>Nouveautés de Lina 1.7.0</h3>
+<ul>
+<li><b>Mode clair</b> : Lina existe désormais en clair comme en sombre. Par défaut, elle suit l'apparence de votre Mac ; dans Préférences, Général, Apparence, vous pouvez la garder claire ou sombre en permanence.</li>
+<li><b>Votre propre raccourci</b> : le raccourci global qui décroche ou raccroche depuis n'importe quelle app n'est plus imposé. Dans Préférences, Général, cliquez sur le champ Raccourci et tapez la combinaison de votre choix ; « Par défaut » rétablit ⌃⌥Espace.</li>
+<li><b>Un site à elle</b> : Lina a déménagé sur lina-softphone.com. Les liens pour acheter Lina Pro et lire le contrat de licence y mènent désormais.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.7.0/Lina-1.7.0.dmg" length="10934202" type="application/octet-stream" sparkle:edSignature="pdS86/Qdxz0d+V9DX7YrjkydI5cJxTNzj5uIoBppobMWNNSnKO/CWcynx31Bu6eXCehISPAP4ZwxjcS/XXiJBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.7.0/Lina20-19.delta" sparkle:deltaFrom="19" length="942650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2L0HJXb9myDqGXhbhbTBpm3CRUJednhoghLAdcp/lxEEETKyaq/jj5Tln1zMcD/DL4WZ06aPkGtSpGpWAwLQCw=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.7.0/Lina20-18.delta" sparkle:deltaFrom="18" length="949122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="S2gXqTJyxtjcuKHnU3QFYq8mJVMNCupBtjGqiY/juf9kFONKHNZagUmgZ3+cZqz3w3Y6wwwBuv8niNBiCq15BQ=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.7.0/Lina20-17.delta" sparkle:deltaFrom="17" length="1409942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v/gFq8yCR53hUWYxxu4UBz0DlhPmvyxUnznwoYPulCvQm6tAdmvYKwsc4xd210Y8Jnaovh0DUXrSudRRlZmeAg=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.7.0/Lina20-16.delta" sparkle:deltaFrom="16" length="1505538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="usOS8n8ok6iiG7Wr/X519UTmb1//ATjkBejUHu9Cq3Iy43eFFjHeHrXg2cs79l6MCAyLyLm2g/zkqm8t92fPCw=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.7.0/Lina20-15.delta" sparkle:deltaFrom="15" length="1526414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="npF6m5uCdaxqqvEVChoWxbgvVzbJBVuQWEkApAbLk265XiIHgrKVsFDRL+SAJqOS6DrLEaaMrRYP+d5JbqS6Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.1</title>
             <pubDate>Fri, 27 Nov 2026 02:30:51 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
@@ -18,6 +58,14 @@
 <li><b>Part of Lina Pro</b>: these three features are included in your licence, and in the 14-day trial.</li>
 <li><b>One more column</b>: the CSV export of the history now carries your notes.</li>
 </ul>]]></description>
+            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina-1.6.1.dmg" length="10862601" type="application/octet-stream" sparkle:edSignature="7oGLaGz1trrUCB13Ds0ZY8bgZlpEKNRooIZehhVyGPhc1TkTdVQdDyAhZcCNZLOv6twt0FYHcyhTm95uliYWBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-18.delta" sparkle:deltaFrom="18" length="524974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8YPIR2XPA9WIgtRAZTJCJi08HvIJSRPweTKJ0oqh47uDPLg0eW2UfWdwX8IrOLaSsYqSeyfQR4SDmdKkozOBAA=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-17.delta" sparkle:deltaFrom="17" length="1321482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i30aU1tGTEMtpOsthk7nGAwAbIA21ubQ2+TP5BltBaMA4kJAd+PoPTDrXEbdM6uAMAOOSQ2SiFe0V1V2xeEYAg=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-16.delta" sparkle:deltaFrom="16" length="1438954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qW/mDwTVhu03yzl1i7Ir/dsac1qGlkabtinw3STwBpqli56bv7gjSvZUmfUcwP6HrLJU45BgXYuDD4Ajs9EEDw=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-15.delta" sparkle:deltaFrom="15" length="1462690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Grwa6ygVNlOoQ73W3mRrUd5I9RFAXD0ZJlpXDUlN3riRbysPZWjeneXk7GwjVgWCKqRgdIMhrSdMNTvjCpa/Cw=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-14.delta" sparkle:deltaFrom="14" length="1500754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pCX79wGQn+w7xAg53acbHLRV75lHqduORfYT5F9D03v6giuuz2+ahNPzdnHrN9sTr+cxMX3ylOBrVgsq+lALBw=="/>
+            </sparkle:deltas>
             <description xml:lang="de"><![CDATA[<h3>Neu in Lina 1.6.1</h3>
 <ul>
 <li><b>Seitenleiste repariert</b>: In 1.6.0 reagierten Tastenfeld, Verlauf und die anderen Bereiche der Seitenleiste nicht mehr auf Klicks. Sie funktionieren wieder. Bitte entschuldigen Sie die Umstände.</li>
@@ -45,14 +93,6 @@
 <li><b>Dans Lina Pro</b>: ces trois fonctions sont comprises dans votre licence, et dans l'essai de 14 jours.</li>
 <li><b>Une colonne de plus</b>: l'export CSV de l'historique contient désormais vos notes.</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina-1.6.1.dmg" length="10862601" type="application/octet-stream" sparkle:edSignature="7oGLaGz1trrUCB13Ds0ZY8bgZlpEKNRooIZehhVyGPhc1TkTdVQdDyAhZcCNZLOv6twt0FYHcyhTm95uliYWBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-18.delta" sparkle:deltaFrom="18" length="524974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8YPIR2XPA9WIgtRAZTJCJi08HvIJSRPweTKJ0oqh47uDPLg0eW2UfWdwX8IrOLaSsYqSeyfQR4SDmdKkozOBAA=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-17.delta" sparkle:deltaFrom="17" length="1321482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i30aU1tGTEMtpOsthk7nGAwAbIA21ubQ2+TP5BltBaMA4kJAd+PoPTDrXEbdM6uAMAOOSQ2SiFe0V1V2xeEYAg=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-16.delta" sparkle:deltaFrom="16" length="1438954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qW/mDwTVhu03yzl1i7Ir/dsac1qGlkabtinw3STwBpqli56bv7gjSvZUmfUcwP6HrLJU45BgXYuDD4Ajs9EEDw=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-15.delta" sparkle:deltaFrom="15" length="1462690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Grwa6ygVNlOoQ73W3mRrUd5I9RFAXD0ZJlpXDUlN3riRbysPZWjeneXk7GwjVgWCKqRgdIMhrSdMNTvjCpa/Cw=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-14.delta" sparkle:deltaFrom="14" length="1500754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pCX79wGQn+w7xAg53acbHLRV75lHqduORfYT5F9D03v6giuuz2+ahNPzdnHrN9sTr+cxMX3ylOBrVgsq+lALBw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.6.0</title>
@@ -100,58 +140,6 @@
 <li><b>Rappels</b>: marquez un appel « À rappeler », avec un rappel dans une heure, demain matin ou au moment de votre choix. Les appels à rendre restent en haut de l'historique tant que vous n'avez pas parlé à la personne.</li>
 <li><b>Dans Lina Pro</b>: ces trois fonctions sont comprises dans votre licence, et dans l'essai de 14 jours.</li>
 <li><b>Une colonne de plus</b>: l'export CSV de l'historique contient désormais vos notes.</li>
-</ul>]]></description>
-        </item>
-        <item>
-            <title>1.5.6</title>
-            <pubDate>Fri, 27 Nov 2026 00:31:38 +0100</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>What's new in Lina 1.5.6</h3>
-<ul>
-<li><b>Call links that work</b>: on recent versions of macOS, “Use Lina” in Settings now really makes Lina the app that calls when you click a phone number, in your browser, a CRM or Contacts.</li>
-<li><b>Contacts as in the Contacts app</b>: the same order as Apple's list, and each number shows its label (mobile, work, your own labels).</li>
-<li><b>A clearer history</b>: calls are grouped by period (today, yesterday, this week…), show which number was used, and an (i) button opens the contact's card.</li>
-<li><b>A steadier dial pad</b>: keys and digits keep their size in the smallest window.</li>
-<li><b>Grey circles, if you prefer</b>: an option in Settings, General, for contacts without a photo.</li>
-<li><b>Readable update notes</b>: they are now properly formatted in every language.</li>
-</ul>]]></description>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.6/Lina-1.5.6.dmg" length="10630659" type="application/octet-stream" sparkle:edSignature="eE39TNVHbpae+JdvyxhsYmdJghBmm2mB2VgKkxvBpFJwskDdYLHzARno38KEVgiPG9MgDBUZd0M7bG4ChZRvDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.6/Lina17-16.delta" sparkle:deltaFrom="16" length="971454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jFSH7BbUCfo5yjaEVAf9ZnIC7hWbPkfmdG0zHeLR7dUfGCMYolYmKYunShaEnq6bmMTSXqBIrnbE0Lil2wilBw=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.6/Lina17-15.delta" sparkle:deltaFrom="15" length="1026734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oGHtQC/iMZ8zASfEtjE3KkquwXGkLShvuNzLe5QN0LZgIgw2VV03zKO+eGgXQo/MT1N6Bb42x6Ev7Y1Jl09QBQ=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.6/Lina17-14.delta" sparkle:deltaFrom="14" length="1074606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3VGQFZ/N2P59SHBYIJEvDvmhbYWr9BKXANzcpJv9dzwlkmWKk1P3vwdbYOthXu0Lyaocd22+nxpn8BCH2ZNsBw=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.6/Lina17-13.delta" sparkle:deltaFrom="13" length="1075850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GzSi/1SUcaH4Ht+3pqcWNlxH8PogueNKm6occXnTyRevsiiJ4ihAuOof8KyBmxtiYS/dlfAmguyque2O8CysCA=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.6/Lina17-12.delta" sparkle:deltaFrom="12" length="1131310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HP8ZmcRN51IyNtNSZofijKW4bhdOaZBRR5iN5a33hYbwogOJh+vtbEN7JgutHU82qIlAEF87QfMUY9O50R5BCQ=="/>
-            </sparkle:deltas>
-            <description xml:lang="de"><![CDATA[<h3>Neu in Lina 1.5.6</h3>
-<ul>
-<li><b>Anruf-Links, die funktionieren</b>: Auf aktuellen macOS-Versionen macht „Lina verwenden“ in den Einstellungen Lina nun wirklich zur App, die anruft, wenn Sie auf eine Telefonnummer klicken, im Browser, in einem CRM oder in Kontakte.</li>
-<li><b>Kontakte wie in der Kontakte-App</b>: Dieselbe Reihenfolge wie in der Liste von Apple, und jede Nummer zeigt ihr Etikett (Mobil, Arbeit, eigene Etiketten).</li>
-<li><b>Ein übersichtlicherer Verlauf</b>: Anrufe sind nach Zeitraum gruppiert (Heute, Gestern, Diese Woche …), zeigen die verwendete Nummer, und eine (i)-Taste öffnet die Kontaktkarte.</li>
-<li><b>Ein ruhigeres Tastenfeld</b>: Tasten und Ziffern behalten ihre Größe auch im kleinsten Fenster.</li>
-<li><b>Graue Kreise, wenn Sie möchten</b>: Eine Option in Einstellungen > Allgemein für Kontakte ohne Foto.</li>
-<li><b>Lesbare Update-Hinweise</b>: Sie werden nun in jeder Sprache korrekt formatiert angezeigt.</li>
-</ul>]]></description>
-            <description xml:lang="es"><![CDATA[<h3>Novedades de Lina 1.5.6</h3>
-<ul>
-<li><b>Enlaces de llamada que funcionan</b>: en las versiones recientes de macOS, «Usar Lina» en Ajustes convierte de verdad a Lina en la app que llama cuando haces clic en un número, en el navegador, un CRM o Contactos.</li>
-<li><b>Los contactos como en la app Contactos</b>: el mismo orden que la lista de Apple, y cada número muestra su etiqueta (móvil, trabajo, tus etiquetas).</li>
-<li><b>Un historial más claro</b>: las llamadas se agrupan por periodo (hoy, ayer, esta semana…), indican el número utilizado, y un botón (i) abre la ficha del contacto.</li>
-<li><b>Un teclado estable</b>: las teclas y los dígitos mantienen su tamaño en la ventana más pequeña.</li>
-<li><b>Círculos grises, si lo prefieres</b>: una opción en Ajustes, General, para los contactos sin foto.</li>
-<li><b>Notas de actualización legibles</b>: ahora aparecen con formato en todos los idiomas.</li>
-</ul>]]></description>
-            <description xml:lang="fr"><![CDATA[<h3>Nouveautés de Lina 1.5.6</h3>
-<ul>
-<li><b>Des liens d'appel qui fonctionnent</b> : sur les versions récentes de macOS, « Utiliser Lina » dans les Préférences fait vraiment de Lina l'app qui appelle quand vous cliquez un numéro, dans le navigateur, un CRM ou Contacts.</li>
-<li><b>Les contacts comme dans l'app Contacts</b> : le même ordre que la liste d'Apple, et chaque numéro affiche son libellé (mobile, bureau, vos libellés).</li>
-<li><b>Un historique plus clair</b> : les appels sont regroupés par période (aujourd'hui, hier, cette semaine…), indiquent le numéro utilisé, et un bouton (i) ouvre la fiche du contact.</li>
-<li><b>Un clavier stable</b> : les touches et les chiffres gardent leur taille dans la plus petite fenêtre.</li>
-<li><b>Des pastilles grises, si vous préférez</b> : une option dans Préférences, Général, pour les contacts sans photo.</li>
-<li><b>Des notes de mise à jour lisibles</b> : elles sont maintenant bien mises en forme dans toutes les langues.</li>
 </ul>]]></description>
         </item>
     </channel>
