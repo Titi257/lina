@@ -29,7 +29,7 @@ Die kostenlose Version ist zeitlich unbegrenzt und unterstützt einen SIP-Accoun
 **Lina Pro, 29 € pro Benutzer, Einmalkauf** (Updates der Version 1 inklusive):
 Anrufaufnahme, Namen, Fotos und Listen aus den Kontakten des Mac, mehrere SIP-Accounts, betreute Weiterleitung, Dreierkonferenz, unbegrenzter Verlauf mit CSV-Export, Anrufstatistiken, Erreichbarkeitszeiten, Anrufnotizen und Rückrufe.
 
-[Lina Pro kaufen](https://kevin-boileux.com/de/lina#acheter)
+[Lina Pro kaufen](https://lina-softphone.com/de#acheter)
 
 ## Voraussetzungen
 
@@ -44,9 +44,9 @@ Anrufaufnahme, Namen, Fotos und Listen aus den Kontakten des Mac, mehrere SIP-Ac
 
 ## Links
 
-- Website: [kevin-boileux.com/de/lina](https://kevin-boileux.com/de/lina)
-- Datenschutzerklärung: [kevin-boileux.com/de/lina/confidentialite](https://kevin-boileux.com/de/lina/confidentialite)
-- Lizenzvertrag: [EULA.md](EULA.md) (Französisch), [deutsche Fassung](https://kevin-boileux.com/de/lina/licence)
+- Website: [lina-softphone.com/de](https://lina-softphone.com/de)
+- Datenschutzerklärung: [lina-softphone.com/de/confidentialite](https://lina-softphone.com/de/confidentialite)
+- Lizenzvertrag: [EULA.md](EULA.md) (Französisch), [deutsche Fassung](https://lina-softphone.com/de/licence)
 - Support: contact@kevin-boileux.com
 
 Dieses Repository dient nur der Verteilung der App. Lina ist proprietäre Software von KB Digital Services LLC.

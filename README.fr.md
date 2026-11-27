@@ -29,7 +29,7 @@ La version gratuite n'a pas de limite de durée et gère un compte SIP. Chaque n
 **Lina Pro, 29 € par utilisateur, achat unique** (mises à jour de la version 1 comprises) :
 enregistrement des appels, noms, photos et listes des Contacts du Mac, comptes SIP multiples, transfert supervisé, conférence à trois, historique illimité avec export CSV, statistiques d'appels, horaires de disponibilité, notes d'appel et rappels.
 
-[Acheter Lina Pro](https://kevin-boileux.com/fr/lina#acheter)
+[Acheter Lina Pro](https://lina-softphone.com/fr#acheter)
 
 ## Configuration requise
 
@@ -44,8 +44,8 @@ enregistrement des appels, noms, photos et listes des Contacts du Mac, comptes S
 
 ## Liens
 
-- Site : [kevin-boileux.com/fr/lina](https://kevin-boileux.com/fr/lina)
-- Politique de confidentialité : [kevin-boileux.com/fr/lina/confidentialite](https://kevin-boileux.com/fr/lina/confidentialite)
+- Site : [lina-softphone.com/fr](https://lina-softphone.com/fr)
+- Politique de confidentialité : [lina-softphone.com/fr/confidentialite](https://lina-softphone.com/fr/confidentialite)
 - Contrat de licence : [EULA.md](EULA.md)
 - Support : contact@kevin-boileux.com
 
