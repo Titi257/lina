@@ -27,7 +27,7 @@ Haz y recibe llamadas en tu Mac con cualquier operador SIP o centralita (Asteris
 La versión gratuita no tiene límite de tiempo y gestiona una cuenta SIP. Cada instalación nueva incluye **14 días de Lina Pro**.
 
 **Lina Pro, 29 € por usuario, pago único** (actualizaciones de la versión 1 incluidas):
-grabación de llamadas, nombres, fotos y listas de los Contactos del Mac, varias cuentas SIP, transferencia asistida, conferencia a tres, historial ilimitado con exportación CSV, estadísticas de llamadas.
+grabación de llamadas, nombres, fotos y listas de los Contactos del Mac, varias cuentas SIP, transferencia asistida, conferencia a tres, historial ilimitado con exportación CSV, estadísticas de llamadas, horario de disponibilidad, notas de llamada y llamadas pendientes.
 
 [Comprar Lina Pro](https://kevin-boileux.com/es/lina#acheter)
 

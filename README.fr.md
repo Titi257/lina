@@ -27,7 +27,7 @@ Passez et recevez vos appels sur votre Mac avec n'importe quel opérateur SIP ou
 La version gratuite n'a pas de limite de durée et gère un compte SIP. Chaque nouvelle installation inclut **14 jours de Lina Pro**.
 
 **Lina Pro, 29 € par utilisateur, achat unique** (mises à jour de la version 1 comprises) :
-enregistrement des appels, noms, photos et listes des Contacts du Mac, comptes SIP multiples, transfert supervisé, conférence à trois, historique illimité avec export CSV, statistiques d'appels.
+enregistrement des appels, noms, photos et listes des Contacts du Mac, comptes SIP multiples, transfert supervisé, conférence à trois, historique illimité avec export CSV, statistiques d'appels, horaires de disponibilité, notes d'appel et rappels.
 
 [Acheter Lina Pro](https://kevin-boileux.com/fr/lina#acheter)
 

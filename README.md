@@ -27,7 +27,7 @@ Make and receive calls on your Mac with any SIP provider or PBX (Asterisk, FreeP
 The free version has no time limit and runs one SIP account. Every new install includes **14 days of Lina Pro**.
 
 **Lina Pro, €29 per user, one-time purchase** (updates for version 1 included):
-call recording, names, photos and lists from your Mac Contacts, multiple SIP accounts, attended transfer, three-way conference, unlimited history with CSV export, call statistics.
+call recording, names, photos and lists from your Mac Contacts, multiple SIP accounts, attended transfer, three-way conference, unlimited history with CSV export, call statistics, availability hours, call notes and callbacks.
 
 [Buy Lina Pro](https://kevin-boileux.com/en/lina#acheter)
 

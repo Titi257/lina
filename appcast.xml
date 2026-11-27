@@ -3,6 +3,58 @@
     <channel>
         <title>Lina</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Fri, 27 Nov 2026 02:30:51 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>What's new in Lina 1.6.1</h3>
+<ul>
+<li><b>Sidebar fixed</b>: in 1.6.0 a click on Keypad, History and the other sections of the sidebar no longer did anything. They work again. Sorry for the trouble.</li>
+<li><b>Your hours</b>: in Settings, General, Availability, tell Lina when you take calls. Outside those hours it switches to “Do Not Disturb” by itself: calls go to your voicemail and stay in the history as missed calls.</li>
+<li><b>Call notes</b>: write down what was said or promised on any call of the history (the “…” button). The note comes back on screen the next time that person calls, and in the contact's card.</li>
+<li><b>Callbacks</b>: mark a call “Call Back”, with a reminder in an hour, tomorrow morning or whenever you choose. Calls to return stay at the top of the history until you have spoken to the person.</li>
+<li><b>Part of Lina Pro</b>: these three features are included in your licence, and in the 14-day trial.</li>
+<li><b>One more column</b>: the CSV export of the history now carries your notes.</li>
+</ul>]]></description>
+            <description xml:lang="de"><![CDATA[<h3>Neu in Lina 1.6.1</h3>
+<ul>
+<li><b>Seitenleiste repariert</b>: In 1.6.0 reagierten Tastenfeld, Verlauf und die anderen Bereiche der Seitenleiste nicht mehr auf Klicks. Sie funktionieren wieder. Bitte entschuldigen Sie die Umstände.</li>
+<li><b>Ihre Zeiten</b>: Legen Sie unter Einstellungen > Allgemein > Erreichbarkeit fest, wann Sie Anrufe annehmen. Außerhalb dieser Zeiten wechselt Lina von selbst zu „Nicht stören“: Anrufe gehen an Ihre Mailbox und bleiben als verpasste Anrufe im Verlauf.</li>
+<li><b>Anrufnotizen</b>: Notieren Sie zu jedem Anruf im Verlauf (Taste „…“), was besprochen oder zugesagt wurde. Die Notiz erscheint wieder, wenn diese Person das nächste Mal anruft, und in der Kontaktkarte.</li>
+<li><b>Rückrufe</b>: Markieren Sie einen Anruf als „Rückruf“, mit einer Erinnerung in einer Stunde, morgen früh oder zu einem Zeitpunkt Ihrer Wahl. Offene Rückrufe bleiben oben im Verlauf, bis Sie mit der Person gesprochen haben.</li>
+<li><b>Teil von Lina Pro</b>: Diese drei Funktionen sind in Ihrer Lizenz enthalten, ebenso in der 14-tägigen Testphase.</li>
+<li><b>Eine Spalte mehr</b>: Der CSV-Export des Verlaufs enthält nun Ihre Notizen.</li>
+</ul>]]></description>
+            <description xml:lang="es"><![CDATA[<h3>Novedades de Lina 1.6.1</h3>
+<ul>
+<li><b>Barra lateral reparada</b>: en la 1.6.0, un clic en Teclado, Historial y las demás secciones de la barra lateral ya no hacía nada. Vuelven a funcionar. Disculpa las molestias.</li>
+<li><b>Tu horario</b>: en Ajustes, General, Disponibilidad, indica cuándo atiendes llamadas. Fuera de ese horario, Lina pasa sola a «No molestar»: las llamadas van a tu buzón de voz y quedan en el historial como llamadas perdidas.</li>
+<li><b>Notas de llamada</b>: anota lo que se dijo o lo que prometiste en cualquier llamada del historial (botón «…»). La nota vuelve a la pantalla la próxima vez que esa persona llame, y en la ficha del contacto.</li>
+<li><b>Llamadas pendientes</b>: marca una llamada «Llamar más tarde», con un recordatorio dentro de una hora, mañana por la mañana o cuando elijas. Las llamadas por devolver siguen arriba en el historial hasta que hayas hablado con la persona.</li>
+<li><b>En Lina Pro</b>: estas tres funciones están incluidas en tu licencia y en la prueba de 14 días.</li>
+<li><b>Una columna más</b>: la exportación CSV del historial incluye ahora tus notas.</li>
+</ul>]]></description>
+            <description xml:lang="fr"><![CDATA[<h3>Nouveautés de Lina 1.6.1</h3>
+<ul>
+<li><b>Barre latérale réparée</b>: dans la 1.6.0, un clic sur Clavier, Historique et les autres sections de la barre latérale ne faisait plus rien. Elles répondent de nouveau. Toutes nos excuses.</li>
+<li><b>Vos horaires</b>: dans Préférences, Général, Disponibilité, indiquez quand vous prenez les appels. En dehors de ces horaires, Lina passe d'elle-même en « Ne pas déranger » : les appels vont vers votre messagerie et restent dans l'historique comme appels manqués.</li>
+<li><b>Notes d'appel</b>: notez ce qui s'est dit ou ce que vous avez promis sur n'importe quel appel de l'historique (bouton « … »). La note revient à l'écran au prochain appel de cette personne, et dans la fiche du contact.</li>
+<li><b>Rappels</b>: marquez un appel « À rappeler », avec un rappel dans une heure, demain matin ou au moment de votre choix. Les appels à rendre restent en haut de l'historique tant que vous n'avez pas parlé à la personne.</li>
+<li><b>Dans Lina Pro</b>: ces trois fonctions sont comprises dans votre licence, et dans l'essai de 14 jours.</li>
+<li><b>Une colonne de plus</b>: l'export CSV de l'historique contient désormais vos notes.</li>
+</ul>]]></description>
+            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina-1.6.1.dmg" length="10862601" type="application/octet-stream" sparkle:edSignature="7oGLaGz1trrUCB13Ds0ZY8bgZlpEKNRooIZehhVyGPhc1TkTdVQdDyAhZcCNZLOv6twt0FYHcyhTm95uliYWBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-18.delta" sparkle:deltaFrom="18" length="524974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8YPIR2XPA9WIgtRAZTJCJi08HvIJSRPweTKJ0oqh47uDPLg0eW2UfWdwX8IrOLaSsYqSeyfQR4SDmdKkozOBAA=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-17.delta" sparkle:deltaFrom="17" length="1321482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i30aU1tGTEMtpOsthk7nGAwAbIA21ubQ2+TP5BltBaMA4kJAd+PoPTDrXEbdM6uAMAOOSQ2SiFe0V1V2xeEYAg=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-16.delta" sparkle:deltaFrom="16" length="1438954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qW/mDwTVhu03yzl1i7Ir/dsac1qGlkabtinw3STwBpqli56bv7gjSvZUmfUcwP6HrLJU45BgXYuDD4Ajs9EEDw=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-15.delta" sparkle:deltaFrom="15" length="1462690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Grwa6ygVNlOoQ73W3mRrUd5I9RFAXD0ZJlpXDUlN3riRbysPZWjeneXk7GwjVgWCKqRgdIMhrSdMNTvjCpa/Cw=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.1/Lina19-14.delta" sparkle:deltaFrom="14" length="1500754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pCX79wGQn+w7xAg53acbHLRV75lHqduORfYT5F9D03v6giuuz2+ahNPzdnHrN9sTr+cxMX3ylOBrVgsq+lALBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Fri, 27 Nov 2026 02:20:29 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
@@ -17,6 +69,14 @@
 <li><b>Part of Lina Pro</b>: these three features are included in your licence, and in the 14-day trial.</li>
 <li><b>One more column</b>: the CSV export of the history now carries your notes.</li>
 </ul>]]></description>
+            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina-1.6.0.dmg" length="10860849" type="application/octet-stream" sparkle:edSignature="AoZiln/orMyMO7LNENMEC6V1bhqOyKUfCwrCyORIQdaW5sx1s6Rwytb1vAVZTGvPxvHdJbcFooy8/+Plxx4SCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-17.delta" sparkle:deltaFrom="17" length="1306026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HRbMWLATCRsLapRr/y9w21Mvf+L33ZiJ4tBDrC8Udkrhqc8gnF7flIr77+cFgbWIaRAvV9zu/8H9SjVv2bOPCQ=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-16.delta" sparkle:deltaFrom="16" length="1422854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Be0TSb+hbdYoPOkuBgLxsAQsdoHyYUww0oBJsRIq0Rs3uigdFiyflXOycUv3AxfSTR8SaPEfH5lw0EgoeItpBQ=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-15.delta" sparkle:deltaFrom="15" length="1451290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zJ6fDykU1P7YFO8xBNmWmrSYXz9L1clFkiZuVg/BUVFyRW5ijRiFk7sFXwrDPy+cm3YdDFkBxeg05IArCatlDg=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-14.delta" sparkle:deltaFrom="14" length="1492370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h7lyReoGwPHv7e7JtxvlnjZDCLcmsWG6cPB2Nqcbi5Z6AaVBWqAJMG0w56EOxuRlCVAnjrqmHJ4XUP6uo7grBg=="/>
+                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-13.delta" sparkle:deltaFrom="13" length="1489542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z8AuF1ObFAPobeNSLsLSgmHJ52kBMiWV3HOgown5v0ZN5SJhSLB0iUCGVjZ0U0YXVTHvrrqGeIlz59qAjYiHDg=="/>
+            </sparkle:deltas>
             <description xml:lang="de"><![CDATA[<h3>Neu in Lina 1.6.0</h3>
 <ul>
 <li><b>Ihre Zeiten</b>: Legen Sie unter Einstellungen > Allgemein > Erreichbarkeit fest, wann Sie Anrufe annehmen. Außerhalb dieser Zeiten wechselt Lina von selbst zu „Nicht stören“: Anrufe gehen an Ihre Mailbox und bleiben als verpasste Anrufe im Verlauf.</li>
@@ -41,14 +101,6 @@
 <li><b>Dans Lina Pro</b>: ces trois fonctions sont comprises dans votre licence, et dans l'essai de 14 jours.</li>
 <li><b>Une colonne de plus</b>: l'export CSV de l'historique contient désormais vos notes.</li>
 </ul>]]></description>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina-1.6.0.dmg" length="10860849" type="application/octet-stream" sparkle:edSignature="AoZiln/orMyMO7LNENMEC6V1bhqOyKUfCwrCyORIQdaW5sx1s6Rwytb1vAVZTGvPxvHdJbcFooy8/+Plxx4SCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-17.delta" sparkle:deltaFrom="17" length="1306026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HRbMWLATCRsLapRr/y9w21Mvf+L33ZiJ4tBDrC8Udkrhqc8gnF7flIr77+cFgbWIaRAvV9zu/8H9SjVv2bOPCQ=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-16.delta" sparkle:deltaFrom="16" length="1422854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Be0TSb+hbdYoPOkuBgLxsAQsdoHyYUww0oBJsRIq0Rs3uigdFiyflXOycUv3AxfSTR8SaPEfH5lw0EgoeItpBQ=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-15.delta" sparkle:deltaFrom="15" length="1451290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zJ6fDykU1P7YFO8xBNmWmrSYXz9L1clFkiZuVg/BUVFyRW5ijRiFk7sFXwrDPy+cm3YdDFkBxeg05IArCatlDg=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-14.delta" sparkle:deltaFrom="14" length="1492370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h7lyReoGwPHv7e7JtxvlnjZDCLcmsWG6cPB2Nqcbi5Z6AaVBWqAJMG0w56EOxuRlCVAnjrqmHJ4XUP6uo7grBg=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.6.0/Lina18-13.delta" sparkle:deltaFrom="13" length="1489542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z8AuF1ObFAPobeNSLsLSgmHJ52kBMiWV3HOgown5v0ZN5SJhSLB0iUCGVjZ0U0YXVTHvrrqGeIlz59qAjYiHDg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.5.6</title>
@@ -100,46 +152,6 @@
 <li><b>Un clavier stable</b> : les touches et les chiffres gardent leur taille dans la plus petite fenêtre.</li>
 <li><b>Des pastilles grises, si vous préférez</b> : une option dans Préférences, Général, pour les contacts sans photo.</li>
 <li><b>Des notes de mise à jour lisibles</b> : elles sont maintenant bien mises en forme dans toutes les langues.</li>
-</ul>]]></description>
-        </item>
-        <item>
-            <title>1.5.5</title>
-            <pubDate>Thu, 26 Nov 2026 19:03:30 +0100</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/Titi257/lina/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>What's new in Lina 1.5.5</h3>
-<ul>
-<li><b>Call links</b>: Settings now shows which app opens phone-number links on your Mac, and how to make Lina your choice when macOS does not let Lina do it for you.</li>
-<li><b>Contacts in your order</b>: the list follows the sort order of the Contacts app, with the sorting name in bold, as in Apple's list.</li>
-<li><b>Clearer language setting</b>: “System language (English)” shows which language Lina follows.</li>
-</ul>]]></description>
-            <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.5/Lina-1.5.5.dmg" length="10505577" type="application/octet-stream" sparkle:edSignature="AZ74plNfmUzPwpDzwgTohRvGZP2I8vpdiPHtQWWpARrr19tD/NYLpGZAN3890UKAfqkbTOAIknFyoAzyL4wlDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.5/Lina16-15.delta" sparkle:deltaFrom="15" length="792238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vYyLdUgenDna1Zb+27fARPFDJoo/PXItCMlili4T+3lqYL+SZTyOm9dcgET1ESE/lXHssRytJCHQ/31F803YAA=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.5/Lina16-14.delta" sparkle:deltaFrom="14" length="880178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pdtsZ/voWAKFH/cbtlVs1GwN7tuGtnH/oXdixZNTTqjJuLcDBvkeTwZ1BwSVeEdb2gvS5fMKAq/pcyQ9MMC0CA=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.5/Lina16-13.delta" sparkle:deltaFrom="13" length="872806" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DE73uiqBxOvNIcRCuhRYaT/TG10YNpcxy4OS1lhesjrQ937Krg5Vw2vTKgC5+OXLFcO0dzlX5w+bPgV9HW6ADw=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.5/Lina16-12.delta" sparkle:deltaFrom="12" length="970534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="67Syl+wEd09QIW+Xw2rf7oWq9AHrcdF2GKMHjX6rPfucIUsVzADaidqNKpkvvwvPeDTrbu2k1+cGH4V1BrvxDQ=="/>
-                <enclosure url="https://github.com/Titi257/lina/releases/download/v1.5.5/Lina16-11.delta" sparkle:deltaFrom="11" length="1013574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YJ3EQCMzHnWj32l7o8awG8AyX9JFjnB6A7RaxSgci4Pcjg8jLpwNMKeLMJOSKqAPHgmbwHfi419YM1gIVJ+BAg=="/>
-            </sparkle:deltas>
-            <description xml:lang="de"><![CDATA[<h3>Neu in Lina 1.5.5</h3>
-<ul>
-<li><b>Anruf-Links</b>: Die Einstellungen zeigen, welche App Telefonnummern-Links auf Ihrem Mac öffnet und wie Sie Lina auswählen, wenn macOS dies Lina nicht selbst erlaubt.</li>
-<li><b>Kontakte in Ihrer Reihenfolge</b>: Die Liste folgt der Sortierung der Kontakte-App, der Sortiername erscheint fett, wie in der Liste von Apple.</li>
-<li><b>Klarere Spracheinstellung</b>: „Systemsprache (Deutsch)“ zeigt, welcher Sprache Lina folgt.</li>
-</ul>]]></description>
-            <description xml:lang="es"><![CDATA[<h3>Novedades de Lina 1.5.5</h3>
-<ul>
-<li><b>Enlaces de llamada</b>: Ajustes indica qué app abre los enlaces de números en tu Mac y cómo elegir Lina cuando macOS no permite que Lina lo haga por ti.</li>
-<li><b>Contactos en tu orden</b>: la lista sigue el orden de la app Contactos, con el nombre de ordenación en negrita, como en la lista de Apple.</li>
-<li><b>Ajuste de idioma más claro</b>: «Idioma del sistema (español)» indica qué idioma sigue Lina.</li>
-</ul>]]></description>
-            <description xml:lang="fr"><![CDATA[<h3>Nouveautés de Lina 1.5.5</h3>
-<ul>
-<li><b>Liens d'appel</b> : les Préférences indiquent quelle app ouvre les liens de numéros sur votre Mac, et comment choisir Lina quand macOS ne laisse pas Lina le faire pour vous.</li>
-<li><b>Contacts dans votre ordre</b> : la liste suit l'ordre de tri de l'app Contacts, avec le nom de tri en gras, comme dans la liste d'Apple.</li>
-<li><b>Réglage de langue plus clair</b> : « Langue du système (français) » indique la langue que Lina suit.</li>
 </ul>]]></description>
         </item>
     </channel>
